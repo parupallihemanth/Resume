@@ -1,0 +1,18 @@
+.bg-theme{
+  background-color: #EAF0F1;
+}
+
+.cart-icons{
+  
+  width:30px;
+  height: 30px;
+  
+}
+
+.text-background{
+  min-height: 100vh;
+  display:flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
